@@ -13,6 +13,5 @@ The front end application using Angular, and connect to the back end application
 
 ## Development server
 
-Run `mvn spring-boot:run` for a dev server. Spring Boot’s embedded Apache Tomcat server is acting as a webserver and is listening for requests on `localhost` port `8080`. Open your browser and in the address bar at the top enter http://localhost:8080/hello
-
+Run `mvn spring-boot:run` for a dev server. Spring Boot’s embedded Apache Tomcat server is acting as a webserver and is listening for requests on `localhost` port `8080`. Open your browser and in the address bar at the top enter http://localhost:8080
 
