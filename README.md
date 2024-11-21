@@ -7,7 +7,8 @@ This project created by `start.spring.io` contain [Spring Boot](https://spring.i
 
 Code in this project based on the guide to build Airbnb clone on https://www.youtube.com/watch?v=XriUV06Hkow 
 
-The front end application using Angular, and connect to the back end application created with Spring Boot
+The front end application using Angular, and connect to the back end application created with Spring Boot 
+
 [![FrontEnd](http://img.shields.io/:FrontEnd-Angular-red.svg)](https://github.com/abimulia/hotel-front)
 
 
@@ -17,5 +18,7 @@ The front end application using Angular, and connect to the back end application
 Run `mvn spring-boot:run` for a dev server. Spring Boot’s embedded Apache Tomcat server is acting as a webserver and is listening for requests on `localhost` port `8080`. Open your browser and in the address bar at the top enter http://localhost:8080
 
 ## Help
-https://github.com/abimulia/hotel-back/HELP.md
+
+[![Static Badge](https://img.shields.io/badge/Help-green)](https://github.com/abimulia/hotel-back/HELP.md)
+
 
