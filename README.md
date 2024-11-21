@@ -1,4 +1,4 @@
-# HotelFront
+# Hotel Back
 [![Spring Boot v3.3.5](https://img.shields.io/badge/Java-SpringBoot-green)]([https://spring.io/](https://spring.io/))
 [![License](http://img.shields.io/:license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
